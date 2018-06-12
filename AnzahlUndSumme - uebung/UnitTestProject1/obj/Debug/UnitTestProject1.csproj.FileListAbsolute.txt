@@ -1,0 +1,20 @@
+G:\c# Schulung\LaengeUndSumme\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+G:\c# Schulung\LaengeUndSumme\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+G:\c# Schulung\LaengeUndSumme\UnitTestProject1\bin\Debug\LaengeUndSumme.dll
+G:\c# Schulung\LaengeUndSumme\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\c# Schulung\LaengeUndSumme\UnitTestProject1\bin\Debug\LaengeUndSumme.pdb
+G:\c# Schulung\LaengeUndSumme\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+G:\c# Schulung\LaengeUndSumme\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+G:\c# Schulung\LaengeUndSumme\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+G:\c# Schulung\LaengeUndSumme\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\UnitTestProject1\bin\Debug\LaengeUndSumme.dll
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\UnitTestProject1\bin\Debug\LaengeUndSumme.pdb
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\UnitTestProject1\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

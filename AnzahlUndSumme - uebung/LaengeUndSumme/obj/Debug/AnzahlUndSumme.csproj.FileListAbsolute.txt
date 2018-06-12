@@ -1,0 +1,11 @@
+G:\c# Schulung\LaengeUndSumme\LaengeUndSumme\bin\Debug\LaengeUndSumme.dll
+G:\c# Schulung\LaengeUndSumme\LaengeUndSumme\bin\Debug\LaengeUndSumme.pdb
+G:\c# Schulung\LaengeUndSumme\LaengeUndSumme\obj\Debug\AnzahlUndSumme.csprojResolveAssemblyReference.cache
+G:\c# Schulung\LaengeUndSumme\LaengeUndSumme\obj\Debug\LaengeUndSumme.dll
+G:\c# Schulung\LaengeUndSumme\LaengeUndSumme\obj\Debug\LaengeUndSumme.pdb
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\LaengeUndSumme\bin\Debug\LaengeUndSumme.dll
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\LaengeUndSumme\bin\Debug\LaengeUndSumme.pdb
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\LaengeUndSumme\obj\Debug\AnzahlUndSumme.csprojAssemblyReference.cache
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\LaengeUndSumme\obj\Debug\AnzahlUndSumme.csproj.CoreCompileInputs.cache
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\LaengeUndSumme\obj\Debug\LaengeUndSumme.dll
+C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung\LaengeUndSumme\obj\Debug\LaengeUndSumme.pdb

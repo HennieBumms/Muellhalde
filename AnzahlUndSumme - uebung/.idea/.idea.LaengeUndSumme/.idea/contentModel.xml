@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\hzabel\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_LaengeUndSumme.-1246730462.00" t="ExcludeRecursive" />
+    <e p="C:\Users\hzabel\C#\Git\AnzahlUndSumme - uebung" t="IncludeFlat">
+      <e p="LaengeUndSumme" t="IncludeRecursive">
+        <e p="AnzahlSumme.cs" t="Include" />
+        <e p="AnzahlUndSumme.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="LaengeUndSumme.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="UnitTestProject1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="UnitTest1.cs" t="Include" />
+        <e p="UnitTestProject1.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+C:\Users\hzabel\C#\Git\unterricht\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\hzabel\C#\Git\unterricht\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\hzabel\C#\Git\unterricht\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\hzabel\C#\Git\unterricht\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\hzabel\C#\Git\unterricht\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\hzabel\C#\Git\unterricht\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
