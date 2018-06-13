@@ -1,29 +1,236 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2fe11cc-12b0-4931-b166-13a47441de14" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/obj/Debug/UnitTestProject1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/obj/Debug/UnitTestProject1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vererbung/bin/Debug/Vererbung.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Vererbung/bin/Debug/Vererbung.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vererbung/bin/Debug/Vererbung.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Vererbung/bin/Debug/Vererbung.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vererbung/obj/Debug/Vererbung.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Vererbung/obj/Debug/Vererbung.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vererbung/obj/Debug/Vererbung.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Vererbung/obj/Debug/Vererbung.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vererbung/obj/Debug/Vererbung.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Vererbung/obj/Debug/Vererbung.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vererbung/obj/Debug/Vererbung.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Vererbung/obj/Debug/Vererbung.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Vererbung/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="21" column="67" lean-forward="true" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+              <folding>
+                <marker date="1528883444315" expanded="false" signature="6:115" ph="..." />
+                <marker date="1528883444315" expanded="true" signature="136:2446" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="156:1065" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="202:1059" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1102:1441" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1144:1239" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1170:1229" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1276:1334" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1372:1435" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1463:1747" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1513:1611" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1539:1601" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1649:1741" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1769:1909" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1807:1902" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1833:1892" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1940:2080" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="1978:2074" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="2004:2064" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="2112:2354" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="2154:2248" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="2180:2238" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="2286:2347" ph="{...}" />
+                <marker date="1528883444315" expanded="true" signature="2379:2443" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Vererbung/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="330" />
     <option name="y" value="148" />
     <option name="width" value="1091" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Vererbung (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Vererbung (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Vererbung" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AlternateCase Übung/AlternateCase.sln" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Vererbung/bin/Debug/Vererbung.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vererbung/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Vererbung/Vererbung.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2fe11cc-12b0-4931-b166-13a47441de14" name="Default" comment="" />
+      <created>1528888506347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528888506347</updated>
+      <workItem from="1528888507488" duration="454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="454000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Vererbung/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="67" lean-forward="true" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
+          <folding>
+            <marker date="1528883444315" expanded="false" signature="6:115" ph="..." />
+            <marker date="1528883444315" expanded="true" signature="136:2446" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="156:1065" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="202:1059" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1102:1441" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1144:1239" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1170:1229" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1276:1334" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1372:1435" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1463:1747" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1513:1611" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1539:1601" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1649:1741" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1769:1909" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1807:1902" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1833:1892" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1940:2080" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="1978:2074" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="2004:2064" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="2112:2354" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="2154:2248" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="2180:2238" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="2286:2347" ph="{...}" />
+            <marker date="1528883444315" expanded="true" signature="2379:2443" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

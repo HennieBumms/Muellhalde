@@ -4,3 +4,9 @@ c:\users\dotten\source\repos\AlternateCase\AlternateCase\obj\Debug\AlternateCase
 c:\users\dotten\source\repos\AlternateCase\AlternateCase\obj\Debug\AlternateCase.csproj.CoreCompileInputs.cache
 c:\users\dotten\source\repos\AlternateCase\AlternateCase\obj\Debug\AlternateCase.dll
 c:\users\dotten\source\repos\AlternateCase\AlternateCase\obj\Debug\AlternateCase.pdb
+C:\Users\hzabel\C#\Git\AlternateCase Übung\AlternateCase\bin\Debug\AlternateCase.dll
+C:\Users\hzabel\C#\Git\AlternateCase Übung\AlternateCase\bin\Debug\AlternateCase.pdb
+C:\Users\hzabel\C#\Git\AlternateCase Übung\AlternateCase\obj\Debug\AlternateCase.csprojAssemblyReference.cache
+C:\Users\hzabel\C#\Git\AlternateCase Übung\AlternateCase\obj\Debug\AlternateCase.csproj.CoreCompileInputs.cache
+C:\Users\hzabel\C#\Git\AlternateCase Übung\AlternateCase\obj\Debug\AlternateCase.dll
+C:\Users\hzabel\C#\Git\AlternateCase Übung\AlternateCase\obj\Debug\AlternateCase.pdb

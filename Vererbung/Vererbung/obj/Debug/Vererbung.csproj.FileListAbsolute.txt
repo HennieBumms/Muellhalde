@@ -5,3 +5,10 @@ c:\users\dotten\source\repos\Vererbung\Vererbung\obj\Debug\Vererbung.csprojAssem
 c:\users\dotten\source\repos\Vererbung\Vererbung\obj\Debug\Vererbung.csproj.CoreCompileInputs.cache
 c:\users\dotten\source\repos\Vererbung\Vererbung\obj\Debug\Vererbung.exe
 c:\users\dotten\source\repos\Vererbung\Vererbung\obj\Debug\Vererbung.pdb
+C:\Users\hzabel\C#\Git\Vererbung\Vererbung\bin\Debug\Vererbung.exe.config
+C:\Users\hzabel\C#\Git\Vererbung\Vererbung\bin\Debug\Vererbung.exe
+C:\Users\hzabel\C#\Git\Vererbung\Vererbung\bin\Debug\Vererbung.pdb
+C:\Users\hzabel\C#\Git\Vererbung\Vererbung\obj\Debug\Vererbung.csprojAssemblyReference.cache
+C:\Users\hzabel\C#\Git\Vererbung\Vererbung\obj\Debug\Vererbung.csproj.CoreCompileInputs.cache
+C:\Users\hzabel\C#\Git\Vererbung\Vererbung\obj\Debug\Vererbung.exe
+C:\Users\hzabel\C#\Git\Vererbung\Vererbung\obj\Debug\Vererbung.pdb
