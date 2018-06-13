@@ -1,0 +1,6 @@
+C:\Users\hzabel\C#\Git\InputOutput\InputOutput\bin\Debug\InputOutput.exe
+C:\Users\hzabel\C#\Git\InputOutput\InputOutput\bin\Debug\InputOutput.pdb
+C:\Users\hzabel\C#\Git\InputOutput\InputOutput\obj\Debug\InputOutput.csprojAssemblyReference.cache
+C:\Users\hzabel\C#\Git\InputOutput\InputOutput\obj\Debug\InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\hzabel\C#\Git\InputOutput\InputOutput\obj\Debug\InputOutput.exe
+C:\Users\hzabel\C#\Git\InputOutput\InputOutput\obj\Debug\InputOutput.pdb

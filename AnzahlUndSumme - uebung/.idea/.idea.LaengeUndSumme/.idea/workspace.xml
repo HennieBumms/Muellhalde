@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8aa9d53b-efd7-4a8e-bc97-d4262c4240f9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../unterricht/.idea/.idea.unterricht/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unterricht/.idea/.idea.unterricht/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../unterricht/.idea/.idea.unterricht/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../unterricht/.idea/.idea.unterricht/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../unterricht/unterricht.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../unterricht/unterricht.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -147,12 +145,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528795527886</updated>
-      <workItem from="1528795529057" duration="1794000" />
+      <workItem from="1528795529057" duration="2677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1794000" />
+    <option name="totallyTimeSpent" value="2677000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -165,7 +163,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" />

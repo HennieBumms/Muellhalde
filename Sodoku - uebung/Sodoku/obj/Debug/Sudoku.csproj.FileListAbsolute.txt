@@ -1,0 +1,11 @@
+G:\c# Schulung\Sodoku\Sodoku\bin\Debug\Sodoku.dll
+G:\c# Schulung\Sodoku\Sodoku\bin\Debug\Sodoku.pdb
+G:\c# Schulung\Sodoku\Sodoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+G:\c# Schulung\Sodoku\Sodoku\obj\Debug\Sodoku.dll
+G:\c# Schulung\Sodoku\Sodoku\obj\Debug\Sodoku.pdb
+C:\Users\hzabel\C#\Git\Sodoku - uebung\Sodoku\bin\Debug\Sodoku.dll
+C:\Users\hzabel\C#\Git\Sodoku - uebung\Sodoku\bin\Debug\Sodoku.pdb
+C:\Users\hzabel\C#\Git\Sodoku - uebung\Sodoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\Users\hzabel\C#\Git\Sodoku - uebung\Sodoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\hzabel\C#\Git\Sodoku - uebung\Sodoku\obj\Debug\Sodoku.dll
+C:\Users\hzabel\C#\Git\Sodoku - uebung\Sodoku\obj\Debug\Sodoku.pdb

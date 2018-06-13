@@ -1,0 +1,7 @@
+c:\users\dotten\source\repos\Vererbung\Vererbung\bin\Debug\Vererbung.exe.config
+c:\users\dotten\source\repos\Vererbung\Vererbung\bin\Debug\Vererbung.exe
+c:\users\dotten\source\repos\Vererbung\Vererbung\bin\Debug\Vererbung.pdb
+c:\users\dotten\source\repos\Vererbung\Vererbung\obj\Debug\Vererbung.csprojAssemblyReference.cache
+c:\users\dotten\source\repos\Vererbung\Vererbung\obj\Debug\Vererbung.csproj.CoreCompileInputs.cache
+c:\users\dotten\source\repos\Vererbung\Vererbung\obj\Debug\Vererbung.exe
+c:\users\dotten\source\repos\Vererbung\Vererbung\obj\Debug\Vererbung.pdb

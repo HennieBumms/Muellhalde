@@ -1,0 +1,11 @@
+G:\c# Schulung\JosephusSurvivor\JosephusSurvivor\obj\Debug\JosephusSurvivor.csprojResolveAssemblyReference.cache
+G:\c# Schulung\JosephusSurvivor\JosephusSurvivor\bin\Debug\JosephusSurvivor.dll
+G:\c# Schulung\JosephusSurvivor\JosephusSurvivor\bin\Debug\JosephusSurvivor.pdb
+G:\c# Schulung\JosephusSurvivor\JosephusSurvivor\obj\Debug\JosephusSurvivor.dll
+G:\c# Schulung\JosephusSurvivor\JosephusSurvivor\obj\Debug\JosephusSurvivor.pdb
+C:\Users\hzabel\C#\Git\JosephusSurvivor - uebung\JosephusSurvivor\obj\Debug\JosephusSurvivor.csprojAssemblyReference.cache
+C:\Users\hzabel\C#\Git\JosephusSurvivor - uebung\JosephusSurvivor\obj\Debug\JosephusSurvivor.csproj.CoreCompileInputs.cache
+C:\Users\hzabel\C#\Git\JosephusSurvivor - uebung\JosephusSurvivor\obj\Debug\JosephusSurvivor.dll
+C:\Users\hzabel\C#\Git\JosephusSurvivor - uebung\JosephusSurvivor\obj\Debug\JosephusSurvivor.pdb
+C:\Users\hzabel\C#\Git\JosephusSurvivor - uebung\JosephusSurvivor\bin\Debug\JosephusSurvivor.dll
+C:\Users\hzabel\C#\Git\JosephusSurvivor - uebung\JosephusSurvivor\bin\Debug\JosephusSurvivor.pdb

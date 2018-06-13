@@ -1,0 +1,6 @@
+c:\users\dotten\source\repos\AlternateCase\AlternateCase\bin\Debug\AlternateCase.dll
+c:\users\dotten\source\repos\AlternateCase\AlternateCase\bin\Debug\AlternateCase.pdb
+c:\users\dotten\source\repos\AlternateCase\AlternateCase\obj\Debug\AlternateCase.csprojAssemblyReference.cache
+c:\users\dotten\source\repos\AlternateCase\AlternateCase\obj\Debug\AlternateCase.csproj.CoreCompileInputs.cache
+c:\users\dotten\source\repos\AlternateCase\AlternateCase\obj\Debug\AlternateCase.dll
+c:\users\dotten\source\repos\AlternateCase\AlternateCase\obj\Debug\AlternateCase.pdb

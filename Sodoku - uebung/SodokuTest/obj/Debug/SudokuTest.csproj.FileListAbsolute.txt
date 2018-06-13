@@ -1,0 +1,20 @@
+G:\c# Schulung\Sodoku\SodokuTest\bin\Debug\SodokuTest.dll
+G:\c# Schulung\Sodoku\SodokuTest\bin\Debug\SodokuTest.pdb
+G:\c# Schulung\Sodoku\SodokuTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\c# Schulung\Sodoku\SodokuTest\bin\Debug\Sodoku.dll
+G:\c# Schulung\Sodoku\SodokuTest\bin\Debug\Sodoku.pdb
+G:\c# Schulung\Sodoku\SodokuTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+G:\c# Schulung\Sodoku\SodokuTest\obj\Debug\SudokuTest.csprojResolveAssemblyReference.cache
+G:\c# Schulung\Sodoku\SodokuTest\obj\Debug\SodokuTest.dll
+G:\c# Schulung\Sodoku\SodokuTest\obj\Debug\SodokuTest.pdb
+C:\Users\hzabel\C#\Git\Sodoku - uebung\SodokuTest\bin\Debug\SodokuTest.dll
+C:\Users\hzabel\C#\Git\Sodoku - uebung\SodokuTest\bin\Debug\SodokuTest.pdb
+C:\Users\hzabel\C#\Git\Sodoku - uebung\SodokuTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hzabel\C#\Git\Sodoku - uebung\SodokuTest\bin\Debug\Sodoku.dll
+C:\Users\hzabel\C#\Git\Sodoku - uebung\SodokuTest\bin\Debug\Sodoku.pdb
+C:\Users\hzabel\C#\Git\Sodoku - uebung\SodokuTest\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\hzabel\C#\Git\Sodoku - uebung\SodokuTest\obj\Debug\SudokuTest.csprojAssemblyReference.cache
+C:\Users\hzabel\C#\Git\Sodoku - uebung\SodokuTest\obj\Debug\SudokuTest.csproj.CoreCompileInputs.cache
+C:\Users\hzabel\C#\Git\Sodoku - uebung\SodokuTest\obj\Debug\SudokuTest.csproj.CopyComplete
+C:\Users\hzabel\C#\Git\Sodoku - uebung\SodokuTest\obj\Debug\SodokuTest.dll
+C:\Users\hzabel\C#\Git\Sodoku - uebung\SodokuTest\obj\Debug\SodokuTest.pdb

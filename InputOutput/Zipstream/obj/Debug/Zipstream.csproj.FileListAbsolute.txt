@@ -1,0 +1,6 @@
+C:\Users\hzabel\C#\Git\InputOutput\Zipstream\bin\Debug\Zipstream.exe
+C:\Users\hzabel\C#\Git\InputOutput\Zipstream\bin\Debug\Zipstream.pdb
+C:\Users\hzabel\C#\Git\InputOutput\Zipstream\obj\Debug\Zipstream.csprojAssemblyReference.cache
+C:\Users\hzabel\C#\Git\InputOutput\Zipstream\obj\Debug\Zipstream.csproj.CoreCompileInputs.cache
+C:\Users\hzabel\C#\Git\InputOutput\Zipstream\obj\Debug\Zipstream.exe
+C:\Users\hzabel\C#\Git\InputOutput\Zipstream\obj\Debug\Zipstream.pdb

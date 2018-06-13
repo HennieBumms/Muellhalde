@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a72920f-d6db-4a09-a42e-73b494f60030" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.unterricht/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unterricht/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.unterricht/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unterricht/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unterricht.sln" beforeDir="false" afterPath="$PROJECT_DIR$/unterricht.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AnzahlUndSumme - uebung/.idea/.idea.LaengeUndSumme/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AnzahlUndSumme - uebung/.idea/.idea.LaengeUndSumme/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +30,7 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ConsoleApplication1/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
+            <state relative-caret-position="451">
               <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <marker date="1528795347266" expanded="true" signature="6:66" ph="..." />
@@ -209,7 +207,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
       <window_info anchor="bottom" id="NuGet" order="7" />
@@ -269,7 +267,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ConsoleApplication1/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
+        <state relative-caret-position="451">
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <marker date="1528795347266" expanded="true" signature="6:66" ph="..." />
