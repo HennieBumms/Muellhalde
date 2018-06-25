@@ -2,30 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f245452-aecc-40ed-a4f9-641535222da9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AlternateCase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlternateCase/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AlternateCase/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AlternateCase/Class1.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AlternateCase/bin/Debug/AlternateCase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AlternateCase/bin/Debug/AlternateCase.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AlternateCase/bin/Debug/AlternateCase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AlternateCase/bin/Debug/AlternateCase.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlternateCase/obj/Debug/AlternateCase.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AlternateCase/obj/Debug/AlternateCase.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlternateCase/obj/Debug/AlternateCase.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlternateCase/obj/Debug/AlternateCase.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AlternateCase/obj/Debug/AlternateCase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AlternateCase/obj/Debug/AlternateCase.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AlternateCase/obj/Debug/AlternateCase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AlternateCase/obj/Debug/AlternateCase.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/AlternateCase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/AlternateCase.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/AlternateCase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/AlternateCase.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/UnitTestProject1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/UnitTestProject1.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/UnitTestProject1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestProject1/bin/Debug/UnitTestProject1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/UnitTestProject1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/UnitTestProject1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/UnitTestProject1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/UnitTestProject1.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/UnitTestProject1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/UnitTestProject1.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/UnitTestProject1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/UnitTestProject1.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/UnitTestProject1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestProject1/obj/Debug/UnitTestProject1.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Sodoku - uebung/.idea/.idea.Sudoku/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sodoku - uebung/.idea/.idea.Sudoku/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vererbung/.idea/.idea.Vererbung/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/.idea/.idea.Vererbung/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vererbung/Vererbung/bin/Debug/Vererbung.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/Vererbung/bin/Debug/Vererbung.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vererbung/Vererbung/bin/Debug/Vererbung.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/Vererbung/bin/Debug/Vererbung.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sodoku - uebung/SodokuTest/SudokuTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Sodoku - uebung/SodokuTest/SudokuTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sodoku - uebung/SodokuTest/bin/Debug/SodokuTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Sodoku - uebung/SodokuTest/bin/Debug/SodokuTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sodoku - uebung/SodokuTest/bin/Debug/SodokuTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Sodoku - uebung/SodokuTest/bin/Debug/SodokuTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sodoku - uebung/SodokuTest/obj/Debug/SodokuTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Sodoku - uebung/SodokuTest/obj/Debug/SodokuTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sodoku - uebung/SodokuTest/obj/Debug/SodokuTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Sodoku - uebung/SodokuTest/obj/Debug/SodokuTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sodoku - uebung/SodokuTest/obj/Debug/SudokuTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Sodoku - uebung/SodokuTest/obj/Debug/SudokuTest.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +37,8 @@
           <file leaf-file-name="UnitTest1.cs" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/UnitTestProject1/UnitTest1.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="506">
-                  <caret line="148" column="66" lean-forward="true" selection-start-line="148" selection-start-column="66" selection-end-line="148" selection-end-column="66" />
+                <state relative-caret-position="313">
+                  <caret line="146" column="9" lean-forward="true" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
                   <folding>
                     <marker date="1528874780244" expanded="true" signature="6:101" ph="..." />
                     <marker date="1528874780244" expanded="true" signature="129:3817" ph="{...}" />
@@ -63,106 +59,6 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="StreamWriter.cs" pinned="false" current-in-tab="false">
-            <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E4546037-3D02-406C-AA6C-360C17465823/1b/bddac5e1/StreamWriter.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="358" column="25" selection-start-line="358" selection-start-column="25" selection-end-line="358" selection-end-column="25" />
-                  <folding>
-                    <marker date="1528890826088" expanded="true" signature="0:289" ph="/* Decompiled with JetBrains decompiler ... */" />
-                    <marker date="1528890826088" expanded="false" signature="297:498" ph="..." />
-                    <marker date="1528890826088" expanded="true" signature="519:24425" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="627:24423" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="1514:1755" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="1795:2124" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="1833:2118" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="1886:2070" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="2190:2202" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="2329:2341" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="2473:2485" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="2639:2651" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="2808:3304" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="3398:3410" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="3518:3530" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="3643:3655" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="3823:3835" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="3999:4552" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="4680:5456" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="5559:5804" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="5838:5918" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="6000:6938" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="6016:6336" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="6350:6932" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="6387:6924" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="6432:6914" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="6460:6554" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="6574:6902" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="7001:7082" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="7143:7870" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="7384:7589" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="7934:8223" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="7975:8022" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="8057:8217" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="8290:8381" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="8331:8375" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="8410:8479" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="8426:8473" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="8518:8598" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="8534:8592" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="8666:8759" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="8707:8753" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="8832:9098" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="9174:9803" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="9340:9723" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="9901:11000" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="10545:10920" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="11075:11682" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="11246:11602" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="11858:12266" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="12449:13470" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="12540:12733" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="12810:13215" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="12871:13207" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="12915:13128" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="13236:13428" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="13648:14116" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="14301:15604" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="14439:14919" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="14479:14682" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="14944:15349" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="15005:15341" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="15049:15262" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="15370:15562" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="15805:16818" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="17026:18303" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="17111:17618" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="17151:17354" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="17643:18048" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="17704:18040" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="17748:17961" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="18069:18261" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="18473:18893" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="19073:19484" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="19666:20077" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="20282:21298" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="21464:21803" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="21833:21901" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="21849:21895" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="21944:22024" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="21960:22018" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="22132:22472" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="22707:23535" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="22800:23115" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="22939:23107" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="23225:23377" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="23571:24419" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="23713:23799" ph="{...}" />
-                    <marker date="1528890826088" expanded="true" signature="23819:24413" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
         </leaf>
       </split-first>
       <split-second>
@@ -170,16 +66,16 @@
           <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/AlternateCase/Class1.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="340">
-                  <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+                <state relative-caret-position="187">
+                  <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
                   <folding>
-                    <marker date="1528891327129" expanded="true" signature="6:30" ph="..." />
-                    <marker date="1528891327129" expanded="true" signature="55:624" ph="{...}" />
-                    <marker date="1528891327129" expanded="true" signature="110:622" ph="{...}" />
-                    <marker date="1528891327129" expanded="true" signature="221:281" ph="{...}" />
-                    <marker date="1528891327129" expanded="true" signature="323:615" ph="{...}" />
-                    <marker date="1528891327129" expanded="true" signature="391:576" ph="{...}" />
-                    <marker date="1528891327129" expanded="true" signature="430:493" ph="{...}" />
+                    <marker date="1528893748546" expanded="true" signature="6:30" ph="..." />
+                    <marker date="1528893748546" expanded="true" signature="55:553" ph="{...}" />
+                    <marker date="1528893748546" expanded="true" signature="110:551" ph="{...}" />
+                    <marker date="1528893748546" expanded="true" signature="178:189" ph="{...}" />
+                    <marker date="1528893748546" expanded="true" signature="240:544" ph="{...}" />
+                    <marker date="1528893748546" expanded="true" signature="311:502" ph="{...}" />
+                    <marker date="1528893748546" expanded="true" signature="350:416" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -192,6 +88,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>flush</find>
+      <find>write</find>
+      <find>write(</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -220,7 +118,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="330" />
     <option name="y" value="148" />
     <option name="width" value="1091" />
@@ -261,6 +159,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sodoku - uebung/Sudoku.sln" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -284,12 +183,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528888797170</updated>
-      <workItem from="1528888798311" duration="3475000" />
+      <workItem from="1528888798311" duration="5751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3475000" />
+    <option name="totallyTimeSpent" value="5751000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -301,8 +200,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" />
@@ -419,8 +317,8 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E4546037-3D02-406C-AA6C-360C17465823/1b/bddac5e1/StreamWriter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="358" column="25" selection-start-line="358" selection-start-column="25" selection-end-line="358" selection-end-column="25" />
+        <state relative-caret-position="224">
+          <caret line="291" column="31" selection-start-line="291" selection-start-column="25" selection-end-line="291" selection-end-column="31" />
           <folding>
             <marker date="1528890826088" expanded="true" signature="0:289" ph="/* Decompiled with JetBrains decompiler ... */" />
             <marker date="1528890826088" expanded="false" signature="297:498" ph="..." />
@@ -517,24 +415,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AlternateCase/Class1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
-            <marker date="1528891327129" expanded="true" signature="6:30" ph="..." />
-            <marker date="1528891327129" expanded="true" signature="55:624" ph="{...}" />
-            <marker date="1528891327129" expanded="true" signature="110:622" ph="{...}" />
-            <marker date="1528891327129" expanded="true" signature="221:281" ph="{...}" />
-            <marker date="1528891327129" expanded="true" signature="323:615" ph="{...}" />
-            <marker date="1528891327129" expanded="true" signature="391:576" ph="{...}" />
-            <marker date="1528891327129" expanded="true" signature="430:493" ph="{...}" />
+            <marker date="1528893748546" expanded="true" signature="6:30" ph="..." />
+            <marker date="1528893748546" expanded="true" signature="55:553" ph="{...}" />
+            <marker date="1528893748546" expanded="true" signature="110:551" ph="{...}" />
+            <marker date="1528893748546" expanded="true" signature="178:189" ph="{...}" />
+            <marker date="1528893748546" expanded="true" signature="240:544" ph="{...}" />
+            <marker date="1528893748546" expanded="true" signature="311:502" ph="{...}" />
+            <marker date="1528893748546" expanded="true" signature="350:416" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UnitTestProject1/UnitTest1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="148" column="66" lean-forward="true" selection-start-line="148" selection-start-column="66" selection-end-line="148" selection-end-column="66" />
+        <state relative-caret-position="313">
+          <caret line="146" column="9" lean-forward="true" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="9" />
           <folding>
             <marker date="1528874780244" expanded="true" signature="6:101" ph="..." />
             <marker date="1528874780244" expanded="true" signature="129:3817" ph="{...}" />

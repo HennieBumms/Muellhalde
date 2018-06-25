@@ -2,15 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f0b5bff-edf3-4a94-8c1c-7b7a86661086" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/.idea/.idea.AlternateCase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/.idea/.idea.AlternateCase/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/AlternateCase/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/AlternateCase/Class1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/AlternateCase/bin/Debug/AlternateCase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/AlternateCase/bin/Debug/AlternateCase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/AlternateCase/bin/Debug/AlternateCase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/AlternateCase/bin/Debug/AlternateCase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/AlternateCase/obj/Debug/AlternateCase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/AlternateCase/obj/Debug/AlternateCase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/AlternateCase/obj/Debug/AlternateCase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/AlternateCase/obj/Debug/AlternateCase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/bin/Debug/AlternateCase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/bin/Debug/AlternateCase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/bin/Debug/AlternateCase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/bin/Debug/AlternateCase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/bin/Debug/UnitTestProject1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/bin/Debug/UnitTestProject1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/bin/Debug/UnitTestProject1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/bin/Debug/UnitTestProject1.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/obj/Debug/UnitTestProject1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/obj/Debug/UnitTestProject1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/obj/Debug/UnitTestProject1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/obj/Debug/UnitTestProject1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/obj/Debug/UnitTestProject1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../AlternateCase Übung/UnitTestProject1/obj/Debug/UnitTestProject1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Sudoku/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sudoku/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SodokuTest/SudokuTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SodokuTest/SudokuTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SodokuTest/bin/Debug/SodokuTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SodokuTest/bin/Debug/SodokuTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SodokuTest/bin/Debug/SodokuTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SodokuTest/bin/Debug/SodokuTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SodokuTest/obj/Debug/SodokuTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SodokuTest/obj/Debug/SodokuTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SodokuTest/obj/Debug/SodokuTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SodokuTest/obj/Debug/SodokuTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SodokuTest/obj/Debug/SudokuTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SodokuTest/obj/Debug/SudokuTest.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Vererbung/.idea/.idea.Vererbung/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/.idea/.idea.Vererbung/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vererbung/Vererbung/bin/Debug/Vererbung.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/Vererbung/bin/Debug/Vererbung.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vererbung/Vererbung/bin/Debug/Vererbung.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/Vererbung/bin/Debug/Vererbung.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/Vererbung/obj/Debug/Vererbung.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vererbung/Vererbung/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Vererbung/Vererbung/Program.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,20 +39,22 @@
           <file leaf-file-name="SudokuTest.cs" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/SodokuTest/SudokuTest.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+                <state relative-caret-position="548">
+                  <caret line="87" column="40" selection-start-line="87" selection-start-column="39" selection-end-line="87" selection-end-column="40" />
                   <folding>
-                    <marker date="1528739087677" expanded="false" signature="6:84" ph="..." />
-                    <marker date="1528739087677" expanded="true" signature="105:2242" ph="{...}" />
-                    <marker date="1528739087677" expanded="true" signature="151:2240" ph="{...}" />
-                    <marker date="1528739087677" expanded="true" signature="206:850" ph="{...}" />
-                    <marker date="1528739087677" expanded="true" signature="291:788" ph="{...}" />
-                    <marker date="1528739087677" expanded="true" signature="900:1222" ph="{...}" />
-                    <marker date="1528739087677" expanded="true" signature="981:1156" ph="{...}" />
-                    <marker date="1528739087677" expanded="true" signature="1272:1875" ph="{...}" />
-                    <marker date="1528739087677" expanded="true" signature="1352:1813" ph="{...}" />
-                    <marker date="1528739087677" expanded="true" signature="1925:2234" ph="{...}" />
-                    <marker date="1528739087677" expanded="true" signature="2005:2172" ph="{...}" />
+                    <marker date="1528897948989" expanded="false" signature="6:84" ph="..." />
+                    <marker date="1528897948989" expanded="true" signature="107:3120" ph="{...}" />
+                    <marker date="1528897948989" expanded="true" signature="153:3118" ph="{...}" />
+                    <marker date="1528897948989" expanded="true" signature="204:889" ph="{...}" />
+                    <marker date="1528897948989" expanded="true" signature="276:827" ph="{...}" />
+                    <marker date="1528897948989" expanded="true" signature="940:1269" ph="{...}" />
+                    <marker date="1528897948989" expanded="true" signature="1012:1207" ph="{...}" />
+                    <marker date="1528897948989" expanded="true" signature="1320:2004" ph="{...}" />
+                    <marker date="1528897948989" expanded="true" signature="1391:1942" ph="{...}" />
+                    <marker date="1528897948989" expanded="true" signature="2055:2377" ph="{...}" />
+                    <marker date="1528897948989" expanded="true" signature="2126:2315" ph="{...}" />
+                    <marker date="1528897948989" expanded="true" signature="2428:3112" ph="{...}" />
+                    <marker date="1528897948989" expanded="true" signature="2499:3050" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -52,8 +67,8 @@
           <file leaf-file-name="Sudoku.cs" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Sodoku/Sudoku.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="366">
-                  <caret line="54" column="10" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+                <state relative-caret-position="340">
+                  <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
                   <folding>
                     <marker date="1528875970983" expanded="false" signature="6:111" ph="..." />
                     <marker date="1528875970983" expanded="true" signature="135:2463" ph="{...}" />
@@ -93,12 +108,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../AlternateCase Übung/AlternateCase/Class1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Sodoku/Sudoku.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SodokuTest/SudokuTest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sodoku/Sudoku.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodokuTest/SudokuTest.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/SodokuTest/SudokuTest.cs" />
         <option value="$PROJECT_DIR$/Sodoku/Sudoku.cs" />
       </list>
     </option>
@@ -113,9 +129,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="330" />
-    <option name="y" value="148" />
-    <option name="width" value="1091" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -124,7 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -132,17 +146,13 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Sudoku (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Sudoku (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="SudokuTest" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,11 +185,13 @@
       <workItem from="1528810079481" duration="2949000" />
       <workItem from="1528872155108" duration="5054000" />
       <workItem from="1528890033096" duration="312000" />
+      <workItem from="1528897716832" duration="243000" />
+      <workItem from="1528958421522" duration="3420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8315000" />
+    <option name="totallyTimeSpent" value="11978000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -192,18 +204,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.04248366" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="7" visible="true" weight="0.20915033" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12633263" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12846482" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -222,13 +233,14 @@
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12633263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info active="true" anchor="bottom" id="Unit Tests" order="10" visible="true" weight="0.04248366" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -237,11 +249,10 @@
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="14" weight="0.17538126" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,20 +270,132 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SodokuTest/SudokuTest.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="79" column="55" lean-forward="true" selection-start-line="79" selection-start-column="55" selection-end-line="79" selection-end-column="55" />
+          <folding>
+            <marker date="1528897948989" expanded="false" signature="6:84" ph="..." />
+            <marker date="1528897948989" expanded="true" signature="107:3120" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="153:3118" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="204:889" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="276:827" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="940:1269" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1012:1207" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1320:2004" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1391:1942" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2055:2377" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2126:2315" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2428:3112" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2499:3050" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sodoku/Sudoku.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
+          <folding>
+            <marker date="1528875970983" expanded="false" signature="6:111" ph="..." />
+            <marker date="1528875970983" expanded="true" signature="135:2463" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="161:2461" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="287:340" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="372:655" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="429:473" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="499:546" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="572:617" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="696:878" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="744:868" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="799:854" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="914:1646" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1128:1636" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1187:1342" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1250:1324" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1396:1451" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1681:1743" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1781:2228" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1894:2218" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1956:2025" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="2096:2151" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="2263:2455" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="2311:2445" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="2376:2431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodokuTest/SudokuTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding>
+            <marker date="1528897948989" expanded="false" signature="6:84" ph="..." />
+            <marker date="1528897948989" expanded="true" signature="107:3120" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="153:3118" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="204:889" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="276:827" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="940:1269" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1012:1207" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1320:2004" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1391:1942" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2055:2377" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2126:2315" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2428:3112" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2499:3050" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sodoku/Sudoku.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="54" column="10" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+          <folding>
+            <marker date="1528875970983" expanded="false" signature="6:111" ph="..." />
+            <marker date="1528875970983" expanded="true" signature="135:2463" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="161:2461" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="287:340" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="372:655" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="429:473" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="499:546" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="572:617" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="696:878" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="744:868" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="799:854" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="914:1646" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1128:1636" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1187:1342" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1250:1324" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1396:1451" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1681:1743" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1781:2228" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1894:2218" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="1956:2025" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="2096:2151" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="2263:2455" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="2311:2445" ph="{...}" />
+            <marker date="1528875970983" expanded="true" signature="2376:2431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodokuTest/SudokuTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
           <folding>
-            <marker date="1528739087677" expanded="false" signature="6:84" ph="..." />
-            <marker date="1528739087677" expanded="true" signature="105:2242" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="151:2240" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="206:850" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="291:788" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="900:1222" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="981:1156" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="1272:1875" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="1352:1813" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="1925:2234" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="2005:2172" ph="{...}" />
+            <marker date="1528897948989" expanded="false" signature="6:84" ph="..." />
+            <marker date="1528897948989" expanded="true" signature="107:3120" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="153:3118" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="204:889" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="276:827" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="940:1269" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1012:1207" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1320:2004" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1391:1942" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2055:2377" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2126:2315" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2428:3112" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2499:3050" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -315,17 +438,19 @@
         <state relative-caret-position="170">
           <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding>
-            <marker date="1528739087677" expanded="false" signature="6:84" ph="..." />
-            <marker date="1528739087677" expanded="true" signature="105:2242" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="151:2240" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="206:850" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="291:788" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="900:1222" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="981:1156" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="1272:1875" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="1352:1813" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="1925:2234" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="2005:2172" ph="{...}" />
+            <marker date="1528897948989" expanded="false" signature="6:84" ph="..." />
+            <marker date="1528897948989" expanded="true" signature="107:3120" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="153:3118" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="204:889" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="276:827" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="940:1269" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1012:1207" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1320:2004" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1391:1942" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2055:2377" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2126:2315" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2428:3112" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2499:3050" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -365,28 +490,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SodokuTest/SudokuTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        <state relative-caret-position="548">
+          <caret line="87" column="40" selection-start-line="87" selection-start-column="39" selection-end-line="87" selection-end-column="40" />
           <folding>
-            <marker date="1528739087677" expanded="false" signature="6:84" ph="..." />
-            <marker date="1528739087677" expanded="true" signature="105:2242" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="151:2240" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="206:850" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="291:788" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="900:1222" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="981:1156" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="1272:1875" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="1352:1813" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="1925:2234" ph="{...}" />
-            <marker date="1528739087677" expanded="true" signature="2005:2172" ph="{...}" />
+            <marker date="1528897948989" expanded="false" signature="6:84" ph="..." />
+            <marker date="1528897948989" expanded="true" signature="107:3120" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="153:3118" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="204:889" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="276:827" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="940:1269" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1012:1207" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1320:2004" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="1391:1942" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2055:2377" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2126:2315" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2428:3112" ph="{...}" />
+            <marker date="1528897948989" expanded="true" signature="2499:3050" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sodoku/Sudoku.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="54" column="10" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+        <state relative-caret-position="340">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <marker date="1528875970983" expanded="false" signature="6:111" ph="..." />
             <marker date="1528875970983" expanded="true" signature="135:2463" ph="{...}" />

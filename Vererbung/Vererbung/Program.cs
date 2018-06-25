@@ -44,6 +44,7 @@ namespace Vererbung
         }
 
         public virtual void Hupen()
+        // von virtual kann abgeleitet werden, muss aber nicht
         {
             Console.WriteLine("Hup");
         }
@@ -57,6 +58,7 @@ namespace Vererbung
     class BMW : Auto
     {
         public sealed override string Farbe
+        // von sealed kann nicht weiter abgeleitet werden
         {
             get
             {
